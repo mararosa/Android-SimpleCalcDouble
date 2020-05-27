@@ -1,0 +1,2 @@
+rootProject.name='CalcDouble'
+include ':app'

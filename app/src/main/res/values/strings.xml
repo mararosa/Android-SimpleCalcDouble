@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CalcDouble</string>
+    <string name="txt_value">1</string>
+    <string name="toolbar_title">Let\'s do some math</string>
+</resources>
